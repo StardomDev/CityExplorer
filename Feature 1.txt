@@ -1,4 +1,2 @@
 Feature 1
-add from gmail
 add by hotmail
-
